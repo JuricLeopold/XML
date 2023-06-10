@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <predjela>
+    <predjelo>
+      <naziv>Caprese salata</naziv>
+      <cijena>$12</cijena>
+      <opis>Svježi rajčice, mozzarella, svježi bosiljak, maslinovo ulje</opis>
+    </predjelo>
+    <predjelo>
+      <naziv>Tartar od lososa</naziv>
+      <cijena>$16</cijena>
+      <opis>Svježi losos, kapare, crveni luk, limunov sok</opis>
+    </predjelo>
+    <predjelo>
+      <naziv>Bruschetta</naziv>
+      <cijena>$10</cijena>
+      <opis>Svježi rajčice, bosiljak, češnjak, maslinovo ulje, tostirani kruh</opis>
+    </predjelo>
+    <predjelo>
+      <naziv>Grilane kozice</naziv>
+      <cijena>$18</cijena>
+      <opis>Marinirane kozice, limunov sok, češnjak, maslinovo ulje</opis>
+    </predjelo>
+    <predjelo>
+      <naziv>Carpaccio od govedine</naziv>
+      <cijena>$14</cijena>
+      <opis>Tanko narezana govedina, parmezan, rukola, maslinovo ulje</opis>
+    </predjelo>
+  </predjela>
+  <glavnaJela>
+    <glavnoJelo>
+      <naziv>Piletina Marsala</naziv>
+      <cijena>$22</cijena>
+      <opis>Piletina u umaku od Marsala vina, šampinjoni, svježe začinsko bilje</opis>
+    </glavnoJelo>
+    <glavnoJelo>
+      <naziv>Filet mignon</naziv>
+      <cijena>$36</cijena>
+      <opis>Pečeni filet mignon, umak od crnog papra, pečeno povrće</opis>
+    </glavnoJelo>
+    <glavnoJelo>
+      <naziv>Rižoto s plodovima mora</naziv>
+      <cijena>$28</cijena>
+      <opis>Kremasti rižoto s mješavinom plodova mora, bijelo vino, maslinovo ulje</opis>
+    </glavnoJelo>
+    <glavnoJelo>
+      <naziv>Pikantni ramen</naziv>
+      <cijena>$20</cijena>
+      <opis>Rezanci u pikantnom pilećem bujonu s povrćem, jaje, klice soje</opis>
+    </glavnoJelo>
+    <glavnoJelo>
+      <naziv>Lasagne</naziv>
+      <cijena>$18</cijena>
+      <opis>Klasična talijanska lasagne s mljevenim mesom, bešamel umak, parmezan</opis>
+    </glavnoJelo>
+  </glavnaJela>
+  <deserti>
+    <desert>
+      <naziv>Tiramisu</naziv>
+      <cijena>$8</cijena>
+      <opis>Klasični talijanski desert s piškotama, kavom, mascarpone kremom</opis>
+    </desert>
+    <desert>
+      <naziv>Čokoladna lava torta</naziv>
+      <cijena>$10</cijena>
+      <opis>Topla čokoladna torta s tekućim čokoladnim punjenjem, sladoled od vanilije</opis>
+    </desert>
+    <desert>
+      <naziv>Panna cotta</naziv>
+      <cijena>$7</cijena>
+      <opis>Krema od vrhnja s okusom vanilije, prelivena voćnim preljevom</opis>
+    </desert>
+    <desert>
+      <naziv>Krempita</naziv>
+      <cijena>$6</cijena>
+      <opis>Klasična kremšnita s karameliziranim vrhom</opis>
+    </desert>
+    <desert>
+      <naziv>Voćna salata</naziv>
+      <cijena>$9</cijena>
+      <opis>Svježe sezonsko voće, medeni preljev, svježa metvica</opis>
+    </desert>
+  </deserti>
+</menu>

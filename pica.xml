@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pica>
+  <vina>
+    <vino>
+      <naziv>Chapel Hill Shiraz</naziv>
+      <cijena>$56</cijena>
+      <opis>AU | Bottle</opis>
+    </vino>
+    <vino>
+      <naziv>Catena Malbee</naziv>
+      <cijena>$59</cijena>
+      <opis>AU | Bottle</opis>
+    </vino>
+    <vino>
+      <naziv>La Vieillw Rose</naziv>
+      <cijena>$44</cijena>
+      <opis>FR | 750 ml</opis>
+    </vino>
+    <vino>
+      <naziv>Rhino Pale Ale</naziv>
+      <cijena>$31</cijena>
+      <opis>CA | 750 ml</opis>
+    </vino>
+    <vino>
+      <naziv>Irish Guinness</naziv>
+      <cijena>$26</cijena>
+      <opis>IE | 750 ml</opis>
+    </vino>
+  </vina>
+  <kokteli>
+    <koktel>
+      <naziv>Aperol Sprtiz</naziv>
+      <cijena>$20</cijena>
+      <opis>Aperol | Villa Marchesi prosecco | soda | 30 ml</opis>
+    </koktel>
+    <koktel>
+      <naziv>Dark 'N' Stormy</naziv>
+      <cijena>$16</cijena>
+      <opis>Dark rum | Ginger beer | Slice of lime</opis>
+    </koktel>
+    <koktel>
+      <naziv>Daiquiri</naziv>
+      <cijena>$10</cijena>
+      <opis>Rum | Citrus juice | Sugar</opis>
+    </koktel>
+    <koktel>
+      <naziv>Old Fashioned</naziv>
+      <cijena>$31</cijena>
+      <opis>Bourbon | Brown sugar | Angostura Bitters</opis>
+    </koktel>
+    <koktel>
+      <naziv>Negroni</naziv>
+      <cijena>$26</cijena>
+      <opis>Gin | Sweet Vermouth | Campari | Orange garnish</opis>
+    </koktel>
+  </kokteli>
+</pica>
